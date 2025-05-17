@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Business Portfolio Website
 
 A modern, responsive portfolio website showcasing business consulting services, strategic planning, and client testimonials. Built with HTML5, CSS3, and JavaScript.
@@ -23,6 +22,4 @@ A modern, responsive portfolio website showcasing business consulting services, 
 ## Author
 
 Sahil Figar - Business Consultant & Strategist
-=======
-# portfolio-website-codefolio
->>>>>>> 152eb5ec05f551aa105b1116bb0c25b1d274a999
+
